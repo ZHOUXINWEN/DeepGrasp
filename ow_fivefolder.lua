@@ -1,0 +1,3 @@
+require 'paths'
+
+os.execute()
